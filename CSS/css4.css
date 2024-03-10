@@ -1,0 +1,24 @@
+.wrapper{
+    margin: 0 auto;
+    width: 1101px;
+    height: 350px;
+    border: 1px solid #000;
+}
+.content{
+    width: 350px;
+    height: 350px;
+    border: 1px solid #000;
+    float: left;
+}
+.content-margin{
+    margin-right: 22px;
+}
+.bg-red{
+    background-color: rgb(255, 236, 236);
+}
+.bg-yellow{
+    background-color: rgb(255, 255, 199);
+}
+.bg-green{
+    background-color: rgb(175, 255, 175);
+}
